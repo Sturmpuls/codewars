@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5b997b066c77d521880001bd
 def all_permuted(n):
     # A list of permutations where none of the characters is in its
     # original position is called a "derangement"
