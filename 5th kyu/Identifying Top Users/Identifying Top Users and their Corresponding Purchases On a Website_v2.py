@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/5838b5eb1adeb6b7220000f5
 from collections import Counter
 from itertools import chain
 
